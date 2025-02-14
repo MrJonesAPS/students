@@ -1,4 +1,5 @@
 Use this repo to practice PRs. Your goal is to add your first name to the README.md file.
+Kidus
 Amir
 Alex
 Isaac
@@ -9,4 +10,3 @@ Chris
 Benjamin
 Gabriel
 angel
->>>>>>> main
