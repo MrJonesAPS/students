@@ -33,3 +33,5 @@ Use this repo to practice PRs. Your goal is to add your first name to the README
 - Owen
 - CJones
 - Antoan Nikolov
+- giselle!
+- Lary <3
